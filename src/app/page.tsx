@@ -1,6 +1,6 @@
 "use client";
 
-import ProductPage from "./productPage";
+import ProductPage from "./components/ProductPage/";
 
 export default function Home() {
   return (
