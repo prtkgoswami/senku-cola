@@ -11,8 +11,8 @@ const BackgroundSection = (): ReactElement => {
               Introducing Senku Cola
             </div>
             <div className="content mb-10 text-md lg:text-lg">
-              A Taste of Science in the Stone World Discover a Unique Cola
-              Experience At the intersection of scientific innovation and the
+              A Taste of Science in the Stone World. Discover a Unique Cola
+              Experience. At the intersection of scientific innovation and the
               post-apocalyptic Stone World lies Senku Cola, a remarkable
               beverage that captures the essence of the Dr. Stone anime.
             </div>
